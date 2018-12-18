@@ -1,0 +1,5 @@
+public with sharing class NewTest {
+    NewTest() {
+    	system.debug('hey');
+    }
+}
